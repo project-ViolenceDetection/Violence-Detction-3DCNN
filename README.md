@@ -1,5 +1,4 @@
 # Violence-Detction-3DCNN
-# Violence-Detection-using-3D-CNN
 ## Preparation of Dataset
 ##### Collect all the Violence and Non Violence videos in a folder for training.
 ##### Make the videos of larger length to videos of same length either manually splitting or by running the below python file
